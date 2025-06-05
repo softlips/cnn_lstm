@@ -1,0 +1,7 @@
+# 忽略 IntelliJ IDEA 配置目录（如 PyCharm、WebStorm）
+.idea/  
+
+# 可选：忽略其他常见临时文件（根据需求添加）
+__pycache__/  # Python 缓存目录
+*.py[cod]     # Python 编译文件（.pyc, .pyo, .pyd）
+*.iml         # IDEA 项目文件
